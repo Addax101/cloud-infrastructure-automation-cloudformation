@@ -1,0 +1,8 @@
+cloud-infrastructure-automation-cloudformation/
+├── template.yaml
+├── parameters.json
+├── README.md
+├── LICENSE
+└── .gitignore
+`template.yaml` file contains the CloudFormation template that defines the stack, resources and their properties.
+`parameters.json` file contains the parameters passed to the CloudFormation template at runtime.
